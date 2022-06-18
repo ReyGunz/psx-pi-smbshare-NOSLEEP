@@ -1,5 +1,5 @@
 # psx-pi-smbshare-NOSLEEP
-NEW: What makes it NOSLEEP?:
+**NEW**: What makes it NOSLEEP?:
 1. **Caffeine** installation added to setup script to prevent server sleeping from longplay and inactivity
 2. **Caffeine** initalized in ```samba-init.sh```
 
