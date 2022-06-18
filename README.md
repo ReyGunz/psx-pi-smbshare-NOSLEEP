@@ -1,9 +1,9 @@
 # psx-pi-smbshare-NOSLEEP
-What makes it NOSLEEP?:
-1. Caffeine installation added to setup script to prevent server sleeping from longplay and inactivity
-2. Caffeine initalized in ```samba-init.sh```
+NEW: What makes it NOSLEEP?:
+1. **Caffeine** installation added to setup script to prevent server sleeping from longplay and inactivity
+2. **Caffeine** initalized in ```samba-init.sh```
 
-Caffeine: https://manpages.ubuntu.com/manpages/bionic/en/man1/caffeine.1.html
+**Caffeine**: https://manpages.ubuntu.com/manpages/bionic/en/man1/caffeine.1.html
 
 psx-pi-smbshare began with the intent of allowing SMB sharing to Multiman and Open Playstation Loader from a Raspberry Pi.  It has evolved into a Pi-based swiss army knife for enhancing classic game consoles.  
 
